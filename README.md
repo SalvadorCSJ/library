@@ -51,7 +51,7 @@ A classe `Client` possui um método `statement`, responsável por gerar o recibo
 
 Reflita sobre os possíveis problemas do método `statement`:
 - Esse método possui muitas responsabilidades?
-- Como adicionar um novo tipo filme?
+- Como adicionar um novo tipo de livro?
 - Como adicionar um novo tipo de recibo, por exemplo, HTML, CSV, JSON, etc?
 
 Explore também os testes em [tests.py](https://github.com/andrehora/library/blob/main/tests.py) para entender melhor como o sistema funciona.
